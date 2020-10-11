@@ -7,3 +7,5 @@ Created react hooks to be deployed in npm so other users can use them.
 - [x] useTitle
 - [x] useClick
 - [x] useHover
+- [x] useConfirm
+- [x] usePreventLeave
