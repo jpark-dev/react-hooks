@@ -9,3 +9,4 @@ Created react hooks to be deployed in npm so other users can use them.
 - [x] useHover
 - [x] useConfirm
 - [x] usePreventLeave
+- [x] useBeforeLeave
