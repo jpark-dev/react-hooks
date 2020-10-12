@@ -11,3 +11,4 @@ Created react hooks to be deployed in npm so other users can use them.
 - [x] usePreventLeave
 - [x] useBeforeLeave
 - [x] useFadeIn
+- [x] useNetwork
