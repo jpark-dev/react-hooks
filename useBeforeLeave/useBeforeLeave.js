@@ -1,4 +1,4 @@
-const useBeforeLeave = onBefore => {
+export const useBeforeLeave = onBefore => {
   if (typeof onBefore !== "function") {
     return;
   }
