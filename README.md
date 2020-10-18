@@ -14,3 +14,4 @@ Created react hooks to be deployed in npm so other users can use them.
 - [x] useNetwork
 - [x] useScroll
 - [x] useFullScreen
+- [x] useAxios
